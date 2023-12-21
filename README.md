@@ -1,8 +1,10 @@
 ### Hello, I am Raeann Tsui. Welcome to my profile!
 
-I made the transition from medicine to software development. I decided to pursue a career in this field because it offers not only creativity in problem solving but also flexibility since not every problem has only 1 solution.
+I made a big change from working in medicine to becoming a software developer. The reason for this shift is that the field of software development not only allows me to use my creativity to solve problems but also offers flexibility because there can be multiple solutions to a single problem.
 
-During my time at App Academy, I learned a new set of skills in JavaScript, Python, React, Redux, Flask, and explored the implementation of AWS in my personal project. Noteworthy among my achievements is the development of a rental booking site using Express and React. Additionally, I collaborated alongside fellow developers to create a Yelp clone, utilizing Python and React, within 1 week. 
+During my time at App Academy, I gained a new set of skills in programming languages such as JavaScript and Python, as well as frameworks like React, Redux, and Flask. I also explored the use of AWS (Amazon Web Services) in one of my personal projects. One of my notable achievements is the creation of a website for booking rentals, where I used technologies like Express and React.
+
+In addition to that, I collaborated with other developers to build a clone of Yelp, a popular platform, using Python and React, and we managed to complete it in just one week. This experience enhanced my ability to work efficiently and effectively as part of a team in developing software projects.
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
