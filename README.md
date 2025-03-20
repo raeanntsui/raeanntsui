@@ -1,16 +1,22 @@
-### Hello, I am Raeann Tsui. Welcome to my profile!
+### Hi, I'm Raeann! Welcome to my profile.
 
-I made a big change from working in medicine to becoming a software developer. The reason for this shift is that the field of software development not only allows me to use my creativity to solve problems but also offers flexibility because there can be multiple solutions to a single problem.
+I am a junior software engineer looking to build on my classroom skills to the professional world. I have a particular interest in building web applications as a front-end engineer however I have developed full stack applications.
 
 During my time at App Academy, I gained a new set of skills in programming languages such as JavaScript and Python, as well as frameworks like React, Redux, and Flask. I also explored the use of AWS (Amazon Web Services) in one of my personal projects. One of my notable achievements is the creation of a website for booking rentals, where I used technologies like Express and React.
 
 In addition to that, I collaborated with other developers to build a clone of Yelp, a popular platform, using Python and React, and we managed to complete it in just one week. This experience enhanced my ability to work efficiently and effectively as part of a team in developing software projects.
 
+# Check out my projects
+https://dogsy.onrender.com/
+https://raebnb.onrender.com/
+
+
+# Skills and Tools Used
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=%23FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=%23FFFFFF)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
